@@ -12,6 +12,6 @@ void print2() {
 int main()
 {
     print();
-    
+    cout << "niki";
 }
 
