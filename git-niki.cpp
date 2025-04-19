@@ -12,6 +12,10 @@ void print2() {
 int main()
 {
     print();
+<<<<<<< HEAD
     cout << "salari";
+=======
+    cout << "niki";
+>>>>>>> branch2
 }
 
